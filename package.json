@@ -1,6 +1,6 @@
 {
   "name": "@dthornley/receive-stream-buffer",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Buffer data from an incoming stream and allow access to the complete buffer once all data has been received.",
   "main": "receive-stream-buffer.js",
   "scripts": {
