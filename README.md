@@ -24,7 +24,7 @@ been tested with the default options.
 Example usage:
 
 ```js
-const ReceiveStreamBuffer = require('buffer-write-stream/write-stream-buffer');
+const ReceiveStreamBuffer = require('receive-stream-buffer');
 
 const bufferStream = new ReceiveStreamBuffer({ logger: console, verbose: false, bufferSizeIncrement: 10 * 1024 * 1024 });
 
